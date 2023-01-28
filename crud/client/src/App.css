@@ -1,0 +1,25 @@
+.card2 {
+  background-image: url("https://mobirise.com/extensions/floram4/floral-studio/assets/images/portr2.jpg");
+  height: 400px;
+  width: 360px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.card3 {
+  background-image: url("https://mobirise.com/extensions/floram4/floral-studio/assets/images/portr3.jpg");
+  height: 400px;
+  width: 360px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+@media only screen and (max-width: 600px) {
+  .unactive {
+    display: block;
+  }
+  .activeLink {
+    display: none;
+  }
+
+ 
+}

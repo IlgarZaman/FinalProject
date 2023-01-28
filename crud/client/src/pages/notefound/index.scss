@@ -1,0 +1,21 @@
+#noteFound {
+  // padding: 300px 0;
+
+  max-width: 1400px;
+  margin: 0 auto;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  .mainDiv {
+    height: 800px;
+    width: 1800px;
+    .notfound {
+      height: 100%;
+      width: 100%;
+      background-image: url("https://img.freepik.com/free-vector/error-404-concept-landing-page_52683-21357.jpg?w=2000");
+      background-size: cover;
+      background-repeat: no-repeat;
+    }
+  }
+}

@@ -1,0 +1,466 @@
+#Home {
+  #sectionOne {
+    .first {
+      display: block;
+      background-image: url("https://mobirise.com/extensions/floram4/floral-studio/assets/images/sl1-967x725.jpg");
+      background-size: cover;
+      background-repeat: no-repeat;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      .Text {
+        h1 {
+          font-weight: 400;
+          font-size: 46px;
+          color: #1b735d;
+        }
+        p {
+          font-weight: 400;
+          font-size: 18px;
+          font-style: italic;
+          color: #1b735d;
+        }
+      }
+    }
+
+    .twice {
+      display: block;
+
+      background-image: url("https://mobirise.com/extensions/floram4/floral-studio/assets/images/sl7.jpg");
+      background-size: cover;
+      background-repeat: no-repeat;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      .Text {
+        h1 {
+          font-weight: 400;
+          font-size: 46px;
+          color: #1b735d;
+        }
+        p {
+          font-weight: 400;
+          font-size: 18px;
+          font-style: italic;
+          color: #1b735d;
+        }
+      }
+    }
+    .third {
+      background-image: url("https://mobirise.com/extensions/floram4/floral-studio/assets/images/sl4.jpg");
+      display: block;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      background-size: cover;
+      background-repeat: no-repeat;
+      .Text {
+        h1 {
+          font-weight: 400;
+          color: #1b735d;
+
+          font-size: 46px;
+        }
+        p {
+          font-weight: 400;
+          color: #1b735d;
+
+          font-size: 18px;
+          font-style: italic;
+        }
+      }
+    }
+  }
+
+  #sectiontwo {
+    padding: 100px 0;
+    background-image: url("https://mobirise.com/extensions/floram4/floral-studio/assets/images/gallery1.jpg");
+    .main {
+      max-width: 1200px;
+      margin: 0 auto;
+      height: 550px;
+      .center {
+        display: flex;
+        width: 100%;
+        height: 550px;
+        .left {
+          height: 550px;
+
+          width: 50%;
+          background-color: #247963;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          .textDiv {
+            width: 50%;
+            h1 {
+              color: white;
+
+              font-weight: 400;
+              font-size: 46px;
+            }
+            p {
+              margin: 20px 0;
+              color: white;
+              font-weight: 400;
+              font-size: 16px;
+            }
+            button {
+              border: none;
+              background-color: white;
+              padding: 15px 40px;
+              color: #247963;
+            }
+          }
+        }
+        .right {
+          width: 50%;
+          height: 550px;
+
+          background-image: url("https://mobirise.com/extensions/floram4/floral-studio/assets/images/b4.jpg");
+          background-size: cover;
+        }
+      }
+    }
+  }
+  #sectionthree {
+    .mainDiv {
+      padding-top: 100px;
+      background-image: url("https://mobirise.com/extensions/floram4/floral-studio/assets/images/background1-1-1085x595.jpg");
+      .centerDiv {
+        .enterText {
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          flex-direction: column;
+          p {
+            font-size: 18px;
+            font-weight: 400;
+            color: #247963;
+          }
+          h1 {
+            font-size: 46px;
+            font-weight: 400;
+            color: #247963;
+          }
+        }
+        .sortAndFilterDiv {
+          display: flex;
+          justify-content: center;
+          flex-direction: column;
+          align-items: center;
+          margin: 20px 0;
+          .inputMainClass {
+            width: 300px;
+          }
+        }
+        .mainCardDiv {
+          display: flex;
+          flex-wrap: wrap;
+          column-gap: 60px;
+          row-gap: 100px;
+          .mainCard {
+            .linkTag {
+              .imgDiv {
+                img {
+                  width: 350px;
+                  height: 350px;
+                }
+              }
+              .textDiv {
+                text-align: center;
+                h2 {
+                  margin: 8px 0;
+                  color: #247963;
+                  font-weight: 400;
+                  font-size: 22px;
+                }
+                p {
+                  color: #247963;
+
+                  font-size: 18px;
+                  font-weight: 400;
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+  #sectionFour {
+    padding: 100px;
+    background-color: #fff4ee;
+    background-image: url("https://mobirise.com/extensions/floram4/floral-studio/assets/images/background1-1-1085x595.jpg");
+    .container {
+      .enterText {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        p {
+          font-size: 18px;
+          font-weight: 400;
+          color: #247963;
+        }
+        h1 {
+          font-size: 46px;
+          font-weight: 400;
+          color: #247963;
+        }
+      }
+      .cards {
+        padding-top: 50px;
+        display: flex;
+        justify-content: space-between;
+        flex-wrap: wrap;
+        .card {
+          text-align: center;
+          background-color: #fef1e6;
+          border: 1px solid #247963;
+          height: 400px;
+          width: 350px;
+          .price {
+            margin-top: 40px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            .pTagClass {
+              margin-left: 8px;
+              display: flex;
+              justify-content: center;
+              align-items: center;
+              height: 55px;
+              p {
+              height: 55px;
+
+                font-size: 14px;
+                font-weight: 400;
+                color: #247963;
+              }
+            }
+            .square {
+              display: flex;
+              justify-content: center;
+              align-items: center;
+              width: 55px;
+              height: 55px;
+              border: 1px solid rgba(114, 61, 61, 0.438);
+              h1 {
+                font-size: 38px;
+                font-weight: 400;
+                color: #247963;
+              }
+            }
+
+            p {
+              font-size: 16px;
+              font-weight: 400;
+              color: #247963;
+            }
+          }
+          h3 {
+            margin-top: 40px;
+            color: #247963;
+
+            font-size: 22px;
+            font-weight: 400;
+          }
+          p {
+            margin-top: 40px;
+            color: #247963;
+
+            font-size: 16px;
+            font-weight: 400;
+          }
+
+          button {
+            margin-top: 40px;
+
+            padding: 15px 40px;
+            color: #247963;
+            background-color: #d8e3d5;
+            border: none;
+            transition: all 0.4s;
+            &:hover {
+              background-color: #c4d5c0;
+            }
+          }
+        }
+      }
+    }
+  }
+
+  #sectionFive {
+    padding: 100px 0;
+    background-color: white;
+    .mainDiv {
+      .enterText {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        p {
+          font-size: 18px;
+          font-weight: 400;
+          color: #247963;
+        }
+        h1 {
+          font-size: 46px;
+          font-weight: 400;
+          color: #247963;
+        }
+      }
+      .mainCardDiv {
+        display: flex;
+        flex-wrap: wrap;
+        .cards {
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          padding-top: 50px;
+
+          .card1 {
+            background-image: url("https://mobirise.com/extensions/floram4/floral-studio/assets/images/portr1.jpg");
+            height: 400px;
+            width: 360px;
+            background-size: cover;
+            background-repeat: no-repeat;
+
+            .icons {
+              display: none;
+              .icon {
+                margin-top: 2px;
+
+                border-radius: 50%;
+                background-color: white;
+                color: #247963;
+                width: 50px;
+                height: 50px;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                transition: all 0.4s;
+
+                i {
+                  cursor: pointer;
+
+                  font-size: 30px;
+                  transition: all 0.4s;
+                }
+              }
+            }
+            &:hover > .icons {
+              display: block;
+            }
+          }
+        }
+        .cards {
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          padding-top: 50px;
+
+          .card2 {
+            height: 400px;
+            width: 360px;
+            background-size: cover;
+            background-repeat: no-repeat;
+
+            .icons {
+              display: none;
+              .icon {
+                margin-top: 2px;
+
+                border-radius: 50%;
+                background-color: white;
+                color: #247963;
+                width: 50px;
+                height: 50px;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                transition: all 0.4s;
+
+                i {
+                  cursor: pointer;
+
+                  font-size: 30px;
+                }
+              }
+            }
+            &:hover > .icons {
+              display: block;
+            }
+          }
+        }
+        .cards {
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          padding-top: 50px;
+
+          .card3 {
+            height: 400px;
+            width: 360px;
+            background-size: cover;
+            background-repeat: no-repeat;
+
+            .icons {
+              display: none;
+              .icon {
+                margin-top: 2px;
+
+                border-radius: 50%;
+                background-color: white;
+                color: #247963;
+                width: 50px;
+                height: 50px;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                transition: all 0.4s;
+
+                i {
+                  cursor: pointer;
+                  font-size: 30px;
+                  transition: all 0.4s;
+                }
+              }
+            }
+            &:hover > .icons {
+              display: block;
+            }
+          }
+        }
+        .textDiv {
+          margin-top: 10px;
+          text-align: center;
+          h1 {
+            color: #247963;
+            font-size: 22px;
+            font-weight: 400;
+          }
+          p {
+            color: #247963;
+            font-size: 16px;
+            font-weight: 400;
+          }
+        }
+      }
+    }
+  }
+}
+
+
+@media only screen and (max-width: 600px) {
+#sectiontwo{
+  .main{
+    .center{
+      display: none;
+    }
+  }
+}
+
+ 
+}

@@ -1,0 +1,27 @@
+#detailFlower {
+  background-image: url("https://mobirise.com/extensions/floram4/floral-studio/assets/images/gallery1.jpg");
+  padding: 200px 0;
+  .maindiv {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    .centerDiv {
+      .textDivMain {
+        display: flex;
+        
+        .textdiv {
+          h1 {
+            color: #1b745e;
+            font-weight: 400;
+            font-size: 40px;
+          }
+          h4 {
+            color: #1b745e;
+            font-weight: 400;
+            font-size: 20px;
+          }
+        }
+      }
+    }
+  }
+}
